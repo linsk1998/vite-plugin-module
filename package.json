@@ -1,0 +1,28 @@
+{
+	"name": "vite-plugin-module",
+	"version": "0.0.0",
+	"description": "plugin to get vite module info",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/linsk1998/vite-plugin-module.git"
+	},
+	"keywords": [
+		"vite",
+		"module",
+		"info"
+	],
+	"author": "linsk",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/linsk1998/vite-plugin-module/issues"
+	},
+	"homepage": "https://github.com/linsk1998/vite-plugin-module#readme",
+	"dependencies": {
+		"@rollup/pluginutils": "^4.1.2",
+		"magic-string": "^0.25.5"
+	}
+}
